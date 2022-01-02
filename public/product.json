@@ -1,0 +1,202 @@
+[
+    {
+        "name": "IPhone 13 Pro Max",
+        "price": "1090",
+        "ram": "6GB RAM",
+        "rom": "128GB",
+        "battery": "4352 mAh, non-removable ",
+        "processor": "Hexa-core (2x3.22 GHz Avalanche + 4xX.X GHz Blizzard).Apple GPU (5-core graphics)",
+        "description": "Face ID,accelerometer, gyro, proximity, compass, barometer,Siri natural language commands and dictation Ultra Wideband (UWB) support.Announced 2021,September 14 Available. Released 2021, September 24",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg"
+    },
+    {
+        "name": "IPhone 13",
+        "price": "799",
+        "ram": "4GB",
+        "rom": "128GB",
+        "battery": "3240 mAh, non-removable",
+        "processor": "Hexa-core (2x3.22 GHz Avalanche + 4xX.X GHz Blizzard),Apple GPU (4-core graphics)",
+        "description": "Face ID, accelerometer, gyro, proximity, compass, barometer,Siri natural language commands and dictation,Ultra Wideband (UWB) support.Announced 2021,September 14 Available. Released 2021, September 24 ",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg"
+    },
+    {
+        "name": "IPhone 13 mini",
+        "price": "699",
+        "ram": "4GB",
+        "rom": "128GB",
+        "battery": "2478 mAh, non-removable",
+        "processor": "Hexa-core (2x3.22 GHz Avalanche + 4xX.X GHz Blizzard),Apple GPU (4-core graphics)",
+        "description": "Face ID, accelerometer, gyro, proximity, compass, barometer,Siri natural language commands and dictation,Ultra Wideband (UWB) support.Announced 2021,September 14 Available. Released 2021, September 24 ",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg"
+    },
+    {
+        "name": "Iphone-12-pro-max",
+        "price": "1099",
+        "ram": "6GB",
+        "rom": "128GB",
+        "battery": "3687 mAh, non-removable",
+        "processor": "Hexa-core (2x3.1 GHz Firestorm + 4x1.8 GHz Icestorm).Apple GPU (4-core graphics)",
+        "description": "Face ID, accelerometer, gyro, proximity, compass,barometer.Siri natural language commands and dictation,Ultra Wideband (UWB) support.Announced 2020, October 13 Available. Released Released 2020, November 13",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro-max-.jpg"
+    },
+    {
+        "name": "Iphone-12",
+        "price": "589.95",
+        "ram": "4GB",
+        "rom": "64GB",
+        "battery": "2815 mAh, non-removable",
+        "processor": "Hexa-core (2x3.1 GHz Firestorm + 4x1.8 GHz Icestorm)",
+        "description": "Face ID, accelerometer, gyro, proximity, compass,barometer.Siri natural language commands and dictation,Ultra Wideband (UWB) support.Announced 2020, October 13 Available. Released Released Released 2020, October 23",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12.jpg"
+    },
+    {
+        "name": "Iphone-12 mini",
+        "price": "406.95",
+        "ram": "6GB",
+        "rom": "64GB",
+        "battery": "2227 mAh, non-removable",
+        "processor": "Hexa-core (2x3.1 GHz Firestorm + 4x1.8 GHz Icestorm),Apple GPU (4-core graphics)",
+        "description": "Face ID, accelerometer, gyro, proximity, compass,barometer.Siri natural language commands and dictation,Ultra Wideband (UWB) support.Announced 2020, October 13 Available. Released Released 2020, November 13",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-mini.jpg"
+    },
+    {
+        "name": "Iphone-Se",
+        "price": "200",
+        "ram": "3GB",
+        "rom": "64GB",
+        "battery": "1821 mAh, non-removable",
+        "processor": "Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder),Apple GPU (4-core graphics)",
+        "description": "Fingerprint (front-mounted), accelerometer, proximity,gyro, compass, barometer,Siri natural language commands and dictation.Announced 2020, April 15 Available. Released Released  2020, April 24",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-se-2020.jpg"
+    },
+    {
+        "name": "IPhone 11 Pro",
+        "price": "899",
+        "ram": "4GB",
+        "rom": "64GB",
+        "battery": "3046 mAh, non-removable",
+        "processor": "Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder)",
+        "description": "Face ID, accelerometer, gyro, proximity, compass,barometer.Siri natural language commands and dictation,Ultra Wideband (UWB) support.Announced 2019, September 10 Available. Released 2019, September 20",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro-max-.jpg"
+    },
+    {
+        "name": "IPhone 11",
+        "price": "599",
+        "ram": "4GB",
+        "rom": "64GB",
+        "battery": "3111 mAh, non-removable",
+        "processor": "Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder)",
+        "description": "Face ID, accelerometer, gyro, proximity, compass,barometer.Siri natural language commands and dictation,Ultra Wideband (UWB) support.Announced 2019, September 10 Available. Released 2019, September 20",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11.jpg"
+    },
+    {
+        "name": "IPhone Xs",
+        "price": "349.95",
+        "ram": "4GB",
+        "rom": "64GB",
+        "battery": "2658 mAh, non-removable",
+        "processor": "Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest)",
+        "description": "Face ID, accelerometer, gyro, proximity, compass, barometer, Siri natural language commands and dictation.Announced 2018, September 12 Available. Released  2018, September 21",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-new.jpg"
+    },
+    {
+        "name": "Samsung Galaxy A13 ",
+        "price": "349.95",
+        "ram": "4GB",
+        "rom": "64GB",
+        "battery": "5000 mAh, non-removable",
+        "processor": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "description": "Fingerprint (side-mounted), accelerometer, gyro, compass,barometer,Virtual proximity sensing.Announced 2021, December 02 Available. Released  2021, December 03",
+        "img": "hhttps://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a13-5g-.jpg"
+    },
+    {
+        "name": "Samsung Galaxy A03 ",
+        "price": "121.95",
+        "ram": "2GB",
+        "rom": "32GB",
+        "battery": "5000 mAh, non-removable",
+        "processor": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "description": "Accelerometer, proximity.Announced 2021, November 15 Available. Released  2021, December 06",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a03-core.jpg"
+    },
+    {
+        "name": "Samsung Galaxy F42 ",
+        "price": "355.95",
+        "ram": "6GB",
+        "rom": "128GB",
+        "battery": "5000 mAh, non-removable",
+        "processor": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "description": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass.Announced 2021, September 29 Available. Released  2021, October 03",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-f42-5g.jpg"
+    },
+    {
+        "name": "Samsung Galaxy M52 ",
+        "price": "373.95",
+        "ram": "6GB",
+        "rom": "128GB",
+        "battery": "5000 mAh, non-removable",
+        "processor": "Octa-core (4x2.4 GHz Kryo 670 & 4x1.8 GHz Kryo 670)",
+        "description": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass.Announced 2021, September 24 Available. Released  2021, October 03",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m32-5g-.jpg"
+    },
+    {
+        "name": "Samsung Galaxy M32",
+        "price": "299",
+        "ram": "6GB",
+        "rom": "128GB",
+        "battery": "5000 mAh, non-removable",
+        "processor": "Octa-core (2x2.0 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "description": "Fingerprint (side-mounted),accelerometer, gyro,compass Virtual proximity sensing.Announced 2021, August 25 Available. Released  2021, September 02",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m32-5g-new.jpg"
+    },
+    {
+        "name": "Samsung Galaxy A12",
+        "price": "199",
+        "ram": "3GB",
+        "rom": "32GB",
+        "battery": "5000 mAh, non-removable",
+        "processor": "Octa-core (4x2.0 GHz Cortex-A55 & 4x2.0 GHz Cortex-A55)",
+        "description": "Fingerprint (side-mounted),accelerometer, gyro,compass Virtual proximity sensing.Announced 2021, August 09 Available. Released  2021, August 09",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a12-nacho.jpg"
+    },
+    {
+        "name": "Samsung Galaxy F22",
+        "price": "170",
+        "ram": "4GB",
+        "rom": "64GB",
+        "battery": "6000 mAh, non-removable",
+        "processor": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "description": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass.Announced 2021, July 06 Available. Released 2021, July 13",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-f22.jpg"
+    },
+    {
+        "name": "Samsung Galaxy M42 ",
+        "price": "220",
+        "ram": "6GB",
+        "rom": "128GB",
+        "battery": "5000 mAh, non-removable",
+        "processor": "Octa-core (2x2.2 GHz Kryo 570 & 6x1.8 GHz Kryo 570)",
+        "description": "Fingerprint (under display, optical), accelerometer, gyro,compass,Virtual proximity sensing.Announced 2021, April 28 Available. Released  2021, May 01",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m42.jpg"
+    },
+    {
+        "name": "Samsung Galaxy M12",
+        "price": "178",
+        "ram": "3GB",
+        "rom": "32GB",
+        "battery": "5000 mAh, non-removable",
+        "processor": "Octa-core (4x2.0 GHz Cortex-A55 & 4x2.0 GHz Cortex-A55)",
+        "description": "Fingerprint (under display, optical), accelerometer, gyro,compass,Virtual proximity sensing.Announced 2021, April 19 Available. Released  2021, April 30",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m12.jpg"
+    },
+    {
+        "name": "Samsung Galaxy A72",
+        "price": "422",
+        "ram": "6GB",
+        "rom": "128GB",
+        "battery": "5000 mAh, non-removable",
+        "processor": "Octa-core (2x2.3 GHz Kryo 465 Gold & 6x1.8 GHz Kryo 465 Silver)",
+        "description": "Fingerprint (under display, optical), accelerometer, gyro, compass,Virtual proximity sensing.Announced 2021, March 17 Available. Released  2021, March 26",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a72-4g.jpg"
+    }
+]

@@ -1,12 +1,17 @@
 import React from 'react';
+import AddProduct from '../Admin/AddProduct/AddProduct';
 import Header from '../Header/Header';
-import Login from '../Login/Login';
+import Products from '../Products/Products';
+
+
 
 const Home = () => {
     return (
         <div>
             <Header></Header>
-            <Login></Login>
+            <Products></Products>
+            <AddProduct></AddProduct>
+
         </div>
     );
 };
