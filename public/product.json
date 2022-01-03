@@ -198,5 +198,205 @@
         "processor": "Octa-core (2x2.3 GHz Kryo 465 Gold & 6x1.8 GHz Kryo 465 Silver)",
         "description": "Fingerprint (under display, optical), accelerometer, gyro, compass,Virtual proximity sensing.Announced 2021, March 17 Available. Released  2021, March 26",
         "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a72-4g.jpg"
+    },
+    {
+        "name": "Xiaomi 12 Pro",
+        "price": "About 650 EUR",
+        "ram": "8GB",
+        "rom": "128GB",
+        "battery": "Li-Po 4600 mAh, non-removable",
+        "processor": "Qualcomm SM8450 Snapdragon 8 Gen1 (4 nm)",
+        "description": "Fingerprint (under display, optical), accelerometer, proximity, gyro, compass, barometer, color spectrum",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-12-1.jpg"
+    },
+    {
+        "name": "Xiaomi 12",
+        "price": "About 510 EUR",
+        "ram": "8GB",
+        "rom": "128GB",
+        "battery": "Li-Po 4500 mAh, non-removable",
+        "processor": "Qualcomm SM8450 Snapdragon 8 Gen1 (4 nm)",
+        "description": "Fingerprint (under display, optical), accelerometer, proximity, gyro, compass, color spectrum",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-12-1.jpg"
+    },
+    {
+        "name": "Xiaomi 12X",
+        "price": "$ 709.99",
+        "ram": "8GB",
+        "rom": "128GB",
+        "battery": "Li-Po 4500 mAh, non-removable",
+        "processor": "Qualcomm SM8250-AC Snapdragon 870 5G (7 nm)",
+        "description": "Fingerprint (under display, optical), accelerometer, proximity, gyro, compass",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-12x-1.jpg"
+    },
+    {
+        "name": "Xiaomi Redmi Note 11T 5G",
+        "price": "About 220 EUR",
+        "ram": "8GB",
+        "rom": "128GB",
+        "battery": "Li-Po 5000 mAh, non-removable",
+        "processor": "MediaTek Dimensity 810 5G (6 nm)",
+        "description": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note11-1.jpg"
+    },
+    {
+        "name": "Xiaomi Redmi Note 11 4G",
+        "price": "About 140 EUR",
+        "ram": "6GB",
+        "rom": "128GB",
+        "battery": "Li-Po 5000 mAh, non-removable",
+        "processor": "MediaTek Helio G88 (12nm)",
+        "description": "Fingerprint (side-mounted), accelerometer, proximity, compass",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-11-4g-1.jpg"
+    },
+    {
+        "name": "Xiaomi Poco M4 Pro 5G",
+        "price": "€ 229.00 / £ 217.81",
+        "ram": "6GB",
+        "rom": "128GB",
+        "battery": "Li-Po 5000 mAh, non-removable",
+        "processor": "MediaTek Dimensity 810 5G (6 nm)",
+        "description": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-m4-pro-5g-1.jpg"
+    },
+    {
+        "name": "Xiaomi Redmi Note 11 Pro+",
+        "price": "About 260 EUR",
+        "ram": "8GB",
+        "rom": "256GB",
+        "battery": "Li-Po 4500 mAh, non-removable",
+        "processor": "MediaTek Dimensity 920 5G (6 nm)",
+        "description": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note11-pro-plus-1.jpg"
+    },
+    {
+        "name": "Xiaomi Redmi Note 11 Pro",
+        "price": "$ 335.99",
+        "ram": "8GB",
+        "rom": "256GB",
+        "battery": "Li-Po 5160 mAh, non-removable",
+        "processor": "MediaTek Dimensity 920 5G (6 nm)",
+        "description": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note11-pro-1.jpg"
+    },
+    {
+        "name": "Xiaomi Redmi Note 11",
+        "price": "$ 270.00",
+        "ram": "8GB",
+        "rom": "256GB",
+        "battery": "Li-Po 5000 mAh, non-removable",
+        "processor": "MediaTek Dimensity 810 5G (6 nm)",
+        "description": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note11-1.jpg"
+    },
+    {
+        "name": "Xiaomi Black Shark 4S Pro",
+        "price": "About 650 EUR",
+        "ram": "16GB",
+        "rom": "512GB",
+        "battery": "Li-Po 4500 mAh, non-removable",
+        "processor": "Qualcomm SM8350 Snapdragon 888+ 5G (5 nm)",
+        "description": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-black-shark-4s-pro-1.jpg"
+    },
+    {
+        "name": "Realme Q3t",
+        "price": "About 290 EUR",
+        "ram": "8GB",
+        "rom": "256GB",
+        "battery": "Li-Po 5000 mAh, non-removable",
+        "processor": "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)",
+        "description": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+        "img": "https://fdn2.gsmarena.com/vv/pics/realme/realme-q3s-1.jpg"
+    },
+    {
+        "name": "Realme GT Neo2T",
+        "price": "About 260 EUR",
+        "ram": "8GB",
+        "rom": "128GB",
+        "battery": "Li-Po 4500 mAh, non-removable",
+        "processor": "MediaTek MT6893 Dimensity 1200 5G (6 nm)",
+        "description": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+        "img": "https://fdn2.gsmarena.com/vv/pics/realme/realme-gt-neo2t-1.jpg"
+    },
+    {
+        "name": "Realme Q3s",
+        "price": "About 200 EUR",
+        "ram": "8GB",
+        "rom": "256GB",
+        "battery": "Li-Po 5000 mAh, non-removable",
+        "processor": "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)",
+        "description": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+        "img": "https://fdn2.gsmarena.com/vv/pics/realme/realme-q3s-1.jpg"
+    },
+    {
+        "name": "Realme Narzo 50A",
+        "price": "₹ 11,499 / Rp 1,539,300",
+        "ram": "4GB",
+        "rom": "128GB",
+        "battery": "Li-Po 6000 mAh, non-removable",
+        "processor": "MediaTek Helio G85 (12nm)",
+        "description": "Fingerprint (rear-mounted), accelerometer, proximity, compass",
+        "img": "https://fdn2.gsmarena.com/vv/pics/realme/realme-narzo-50a-1.jpg"
+    },
+    {
+        "name": "Realme Narzo 50i",
+        "price": "₹ 7,499 / Rp 1,658,000",
+        "ram": "4GB",
+        "rom": "64GB",
+        "battery": "Li-Po 5000 mAh, non-removable",
+        "processor": "MediaTek Helio G85 (12nm)",
+        "description": "Accelerometer, gyro, proximity, compass",
+        "img": "https://fdn2.gsmarena.com/vv/pics/realme/realme-narzo-50i-1.jpg"
+    },
+    {
+        "name": "Realme V11s 5G",
+        "price": "About 190 EUR",
+        "ram": "6GB",
+        "rom": "128GB",
+        "battery": "Li-Po 5000 mAh, non-removable",
+        "processor": "MediaTek Dimensity 810 5G (6 nm)",
+        "description": "Fingerprint (side-mounted), accelerometer proximity, compass",
+        "img": "https://fdn2.gsmarena.com/vv/pics/realme/realme-v11s-5g-1.jpg"
+    },
+    {
+        "name": "Realme GT Neo2",
+        "price": "€ 369.00",
+        "ram": "12GB",
+        "rom": "256GB",
+        "battery": "Li-Po 5000 mAh, non-removable",
+        "processor": "Qualcomm SM8250-AC Snapdragon 870 5G (7 nm)",
+        "description": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+        "img": "https://fdn2.gsmarena.com/vv/pics/realme/realme-gt-neo2-1.jpg"
+    },
+    {
+        "name": "Realme C25Y",
+        "price": "₹ 10,599",
+        "ram": "6GB",
+        "rom": "128GB",
+        "battery": "Li-Po 5000 mAh, non-removable",
+        "processor": "Unisoc T610 (12 nm)",
+        "description": "Fingerprint (rear-mounted), accelerometer, proximity, compass",
+        "img": "https://fdn2.gsmarena.com/vv/pics/realme/realme-c25y-1.jpg"
+    },
+    {
+        "name": "Realme 8s 5G",
+        "price": "₹ 20,900",
+        "ram": "8GB",
+        "rom": "128GB",
+        "battery": "Li-Po 5000 mAh, non-removable",
+        "processor": "MediaTek Dimensity 810 5G (6 nm)",
+        "description": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+        "img": "https://fdn2.gsmarena.com/vv/pics/realme/realme-8s-5g-1.jpg"
+    },
+    {
+        "name": "Realme 8i",
+        "price": "₹ 13,579",
+        "ram": "6GB",
+        "rom": "128GB",
+        "battery": "Li-Po 5000 mAh, non-removable",
+        "processor": "Mediatek Helio G96 (12 nm)",
+        "description": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+        "img": "https://fdn2.gsmarena.com/vv/pics/realme/realme-8i-1.jpg"
     }
 ]
