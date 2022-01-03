@@ -26,6 +26,7 @@ const Header = () => {
             />
             <Button className="searchbutton" variant="outline-success">Search</Button>
           </Form>
+          {/* navitem menue */}
           <Nav
             
             style={{ maxHeight: "100px" }}
