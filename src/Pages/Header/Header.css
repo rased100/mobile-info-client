@@ -1,0 +1,14 @@
+.navitem {
+  color: white;
+  text-decoration: none;
+  margin: 0 8px;
+}
+
+.size {
+  width: 350px;
+  margin: 0 auto;
+}
+
+.searchbutton {
+  background-color: white;
+}

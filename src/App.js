@@ -1,13 +1,13 @@
-import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import AuthProvider from './Pages/context/AuthProvider/AuthProvider';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Login from './Pages/Login/Login';
-import Home from './Pages/Home/Home';
-import Header from './Pages/Header/Header';
-import Register from './Pages/Login/Register/Register';
-import PrivateRoute from './Pages/Login/PrivateRoute/PrivateRoute';
+import './App.css';
+import AuthProvider from './Pages/context/AuthProvider/AuthProvider';
 import Dashboard from './Pages/Dashboard/Dashboard';
+import Home from './Pages/Home/Home';
+import Login from './Pages/Login/Login';
+import PrivateRoute from './Pages/Login/PrivateRoute/PrivateRoute';
+// import Header from './Pages/Header/Header';
+import Register from './Pages/Login/Register/Register';
 import MoreProducts from './Pages/MoreProducts/MoreProducts';
 
 function App() {
