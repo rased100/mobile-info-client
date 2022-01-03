@@ -1,0 +1,52 @@
+.card{
+    
+    width: 15rem;
+    padding-bottom: 7px;
+    margin-bottom: 20px;
+    
+ }
+.card:hover{
+box-shadow: 5px 10px 25px 5px #f89dac!important;
+}
+.card-body{
+    padding: 1rem 0!important;
+    
+}
+.hover:hover{
+ 
+    color:  #969FE4;
+    }
+.button-hover{
+   
+    background-color: #000;
+    border: 3px solid #000;
+    color: rgb(250, 249, 244);
+}
+.button-hover:hover{
+   
+    background-color:  #969FE4;
+    color: rgb(15, 15, 15);
+    border: 3px solid white;
+}
+.card-title{
+    color: #424242;
+    font-weight: 700;
+}
+.price{
+    color: #757575;
+    font-weight: 900;
+}
+.cart{
+    color: #212529;
+}
+.cart:hover{
+    color: #969FE4;
+}
+.product-size{
+    font-weight: 650;
+    font-size: 50px;
+    color: #212529;
+}
+.shadow-color{
+    box-shadow: 5px 5px 10px 5px  #969FE4!important;
+}

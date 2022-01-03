@@ -9,6 +9,9 @@ import PrivateRoute from './Pages/Login/PrivateRoute/PrivateRoute';
 // import Header from './Pages/Header/Header';
 import Register from './Pages/Login/Register/Register';
 import MoreProducts from './Pages/MoreProducts/MoreProducts';
+import AddReview from './Pages/Review/AddReview';
+import OrderNow from './Pages/OrdeNow/OrderNow';
+import MyOrder from './Pages/OrdeNow/MyOrder';
 
 function App() {
   return (
@@ -34,6 +37,15 @@ function App() {
               <Dashboard />
             </PrivateRoute>}>
             </Route>
+            <Route path="/ordernow/:itemId" element={<PrivateRoute>
+              <OrderNow />
+            </PrivateRoute>}></Route>
+            <Route path="/myorders" element={<PrivateRoute>
+              <MyOrder />
+            </PrivateRoute>}></Route>
+            <Route path="/addReview" element={<PrivateRoute>
+              <AddReview />
+            </PrivateRoute>}></Route>
           </Routes>
 
         </Router>

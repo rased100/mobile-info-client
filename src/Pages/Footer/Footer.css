@@ -1,0 +1,12 @@
+.background{
+    /* background-color: rgba(42, 11, 218, 0.911); */
+    background-image: linear-gradient(to right, #000428 , #004e92);
+}
+.decoration{
+    text-decoration: none;
+    color: darkgrey;
+}
+.header{
+    margin-bottom: 20px;
+    color: darkgrey;
+}
