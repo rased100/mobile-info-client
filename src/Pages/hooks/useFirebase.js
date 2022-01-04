@@ -1,6 +1,6 @@
+import { createUserWithEmailAndPassword, getAuth, GoogleAuthProvider, onAuthStateChanged, signInWithEmailAndPassword, signInWithPopup, signOut, updateProfile } from "firebase/auth";
 import { useEffect, useState } from "react";
 import initializeFirebase from "../Firebase/firebase.init";
-import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, onAuthStateChanged, signOut, GoogleAuthProvider, signInWithPopup, updateProfile, getIdToken } from "firebase/auth";
 
 
 initializeFirebase()
@@ -98,7 +98,7 @@ const useFirebase = () => {
             setIsLoading(false)
         });
         return () => unSubscribe
-    }, [])
+    }, [auth])
 
     const logOut = () => {
         setIsLoading(true)
