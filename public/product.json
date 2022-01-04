@@ -1,6 +1,7 @@
 [
     {
         "name": "IPhone 13 Pro Max",
+        "category": "iphone",
         "price": "1090",
         "ram": "6GB RAM",
         "rom": "128GB",
@@ -11,6 +12,7 @@
     },
     {
         "name": "IPhone 13",
+        "category": "iphone",
         "price": "799",
         "ram": "4GB",
         "rom": "128GB",
@@ -21,6 +23,7 @@
     },
     {
         "name": "IPhone 13 mini",
+        "category": "iphone",
         "price": "699",
         "ram": "4GB",
         "rom": "128GB",
@@ -31,6 +34,8 @@
     },
     {
         "name": "Iphone-12-pro-max",
+        "category": "iphone",
+        "bsp": "yes",
         "price": "1099",
         "ram": "6GB",
         "rom": "128GB",
@@ -41,6 +46,7 @@
     },
     {
         "name": "Iphone-12",
+        "category": "iphone",
         "price": "589",
         "ram": "4GB",
         "rom": "64GB",
@@ -51,6 +57,7 @@
     },
     {
         "name": "Iphone-12 mini",
+        "category": "iphone",
         "price": "406",
         "ram": "6GB",
         "rom": "64GB",
@@ -61,6 +68,7 @@
     },
     {
         "name": "Iphone-Se",
+        "category": "iphone",
         "price": "200",
         "ram": "3GB",
         "rom": "64GB",
@@ -71,6 +79,8 @@
     },
     {
         "name": "IPhone 11 Pro",
+        "category": "iphone",
+        "bsp": "yes",
         "price": "899",
         "ram": "4GB",
         "rom": "64GB",
@@ -81,6 +91,7 @@
     },
     {
         "name": "IPhone 11",
+        "category": "iphone",
         "price": "599",
         "ram": "4GB",
         "rom": "64GB",
@@ -91,6 +102,7 @@
     },
     {
         "name": "IPhone Xs",
+        "category": "iphone",
         "price": "349",
         "ram": "4GB",
         "rom": "64GB",
@@ -101,6 +113,8 @@
     },
     {
         "name": "Samsung Galaxy A13 ",
+        "category": "samsung",
+        "bsp": "yes",
         "price": "349",
         "ram": "4GB",
         "rom": "64GB",
@@ -111,6 +125,7 @@
     },
     {
         "name": "Samsung Galaxy A03 ",
+        "category": "samsung",
         "price": "121",
         "ram": "2GB",
         "rom": "32GB",
@@ -121,6 +136,7 @@
     },
     {
         "name": "Samsung Galaxy F42 ",
+        "category": "samsung",
         "price": "355",
         "ram": "6GB",
         "rom": "128GB",
@@ -131,6 +147,8 @@
     },
     {
         "name": "Samsung Galaxy M52 ",
+        "category": "samsung",
+        "bsp": "yes",
         "price": "373",
         "ram": "6GB",
         "rom": "128GB",
@@ -141,6 +159,7 @@
     },
     {
         "name": "Samsung Galaxy M32",
+        "category": "samsung",
         "price": "299",
         "ram": "6GB",
         "rom": "128GB",
@@ -151,6 +170,7 @@
     },
     {
         "name": "Samsung Galaxy A12",
+        "category": "samsung",
         "price": "199",
         "ram": "3GB",
         "rom": "32GB",
@@ -161,6 +181,7 @@
     },
     {
         "name": "Samsung Galaxy F22",
+        "category": "samsung",
         "price": "170",
         "ram": "4GB",
         "rom": "64GB",
@@ -171,6 +192,7 @@
     },
     {
         "name": "Samsung Galaxy M42 ",
+        "category": "samsung",
         "price": "220",
         "ram": "6GB",
         "rom": "128GB",
@@ -181,6 +203,7 @@
     },
     {
         "name": "Samsung Galaxy M12",
+        "category": "samsung",
         "price": "178",
         "ram": "3GB",
         "rom": "32GB",
@@ -191,6 +214,7 @@
     },
     {
         "name": "Samsung Galaxy A72",
+        "category": "samsung",
         "price": "422",
         "ram": "6GB",
         "rom": "128GB",
@@ -201,6 +225,7 @@
     },
     {
         "name": "Xiaomi 12 Pro",
+        "category": "xiaomi",
         "price": "734",
         "ram": "8GB",
         "rom": "128GB",
@@ -211,6 +236,7 @@
     },
     {
         "name": "Xiaomi 12",
+        "category": "xiaomi",
         "price": "576",
         "ram": "8GB",
         "rom": "128GB",
@@ -221,6 +247,8 @@
     },
     {
         "name": "Xiaomi 12X",
+        "category": "xiaomi",
+        "bsp": "yes",
         "price": "709",
         "ram": "8GB",
         "rom": "128GB",
@@ -231,6 +259,7 @@
     },
     {
         "name": "Xiaomi Redmi Note 11T 5G",
+        "category": "xiaomi",
         "price": "248",
         "ram": "8GB",
         "rom": "128GB",
@@ -241,6 +270,7 @@
     },
     {
         "name": "Xiaomi Redmi Note 11 4G",
+        "category": "xiaomi",
         "price": "158",
         "ram": "6GB",
         "rom": "128GB",
@@ -251,6 +281,7 @@
     },
     {
         "name": "Xiaomi Poco M4 Pro 5G",
+        "category": "xiaomi",
         "price": "258",
         "ram": "6GB",
         "rom": "128GB",
@@ -261,6 +292,7 @@
     },
     {
         "name": "Xiaomi Redmi Note 11 Pro+",
+        "category": "xiaomi",
         "price": "293",
         "ram": "8GB",
         "rom": "256GB",
@@ -271,6 +303,7 @@
     },
     {
         "name": "Xiaomi Redmi Note 11 Pro",
+        "category": "xiaomi",
         "price": "335",
         "ram": "8GB",
         "rom": "256GB",
@@ -281,6 +314,7 @@
     },
     {
         "name": "Xiaomi Redmi Note 11",
+        "category": "xiaomi",
         "price": "270",
         "ram": "8GB",
         "rom": "256GB",
@@ -291,6 +325,8 @@
     },
     {
         "name": "Xiaomi Black Shark 4S Pro",
+        "category": "xiaomi",
+        "bsp": "yes",
         "price": "734",
         "ram": "16GB",
         "rom": "512GB",
@@ -301,6 +337,7 @@
     },
     {
         "name": "Realme Q3t",
+        "category": "realme",
         "price": "327",
         "ram": "8GB",
         "rom": "256GB",
@@ -311,6 +348,7 @@
     },
     {
         "name": "Realme GT Neo2T",
+        "category": "realme",
         "price": "293",
         "ram": "8GB",
         "rom": "128GB",
@@ -321,6 +359,8 @@
     },
     {
         "name": "Realme Q3s",
+        "category": "realme",
+        "bsp": "yes",
         "price": "225",
         "ram": "8GB",
         "rom": "256GB",
@@ -331,6 +371,7 @@
     },
     {
         "name": "Realme Narzo 50A",
+        "category": "realme",
         "price": "154",
         "ram": "4GB",
         "rom": "128GB",
@@ -341,6 +382,7 @@
     },
     {
         "name": "Realme Narzo 50i",
+        "category": "realme",
         "price": "100",
         "ram": "4GB",
         "rom": "64GB",
@@ -351,6 +393,7 @@
     },
     {
         "name": "Realme V11s 5G",
+        "category": "realme",
         "price": "214",
         "ram": "6GB",
         "rom": "128GB",
@@ -361,6 +404,8 @@
     },
     {
         "name": "Realme GT Neo2",
+        "category": "realme",
+        "bsp": "yes",
         "price": "416",
         "ram": "12GB",
         "rom": "256GB",
@@ -371,6 +416,7 @@
     },
     {
         "name": "Realme C25Y",
+        "category": "realme",
         "price": "142",
         "ram": "6GB",
         "rom": "128GB",
@@ -381,6 +427,7 @@
     },
     {
         "name": "Realme 8s 5G",
+        "category": "realme",
         "price": "280",
         "ram": "8GB",
         "rom": "128GB",
@@ -391,6 +438,7 @@
     },
     {
         "name": "Realme 8i",
+        "category": "realme",
         "price": "182",
         "ram": "6GB",
         "rom": "128GB",
@@ -400,7 +448,8 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/realme/realme-8i-1.jpg"
     },
     {
-        "name-": "vivo iq00 u5",
+        "name": "vivo iq00 u5",
+        "category": "vivo",
         "price": "671",
         "ram": "8Gb",
         "rom": "122Gb",
@@ -410,7 +459,8 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-u5-1.jpg"
     },
     {
-        "name-": "vivo S12 Pro",
+        "name": "vivo S12 Pro",
+        "category": "vivo",
         "price": "268",
         "ram": "10Gb",
         "rom": "124Gb",
@@ -420,7 +470,8 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-s12-pro-1.jpg"
     },
     {
-        "name-": "vivo S12",
+        "name": "vivo S12",
+        "category": "vivo",
         "price": "201",
         "ram": "6Gb",
         "rom": "111Gb",
@@ -430,7 +481,8 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-s12-r3.jpg"
     },
     {
-        "name-": "vivo iq00-neo-5S",
+        "name": "vivo iq00-neo-5S",
+        "category": "vivo",
         "price": "537",
         "ram": "10Gb",
         "rom": "132Gb",
@@ -440,7 +492,9 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-neo-5s-1.jpg"
     },
     {
-        "name-": "vivo iq00-ne9-5se",
+        "name": "vivo iq00-ne9-5se",
+        "category": "vivo",
+        "bsp": "yes",
         "price": "738",
         "ram": "18Gb",
         "rom": "222Gb",
@@ -451,6 +505,7 @@
     },
     {
         "name": "vivo Y32",
+        "category": "vivo",
         "price": "80",
         "ram": "12Gb",
         "rom": "120Gb",
@@ -460,7 +515,9 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y32-1.jpg"
     },
     {
-        "name-": "vivo Y55s-5G",
+        "name": "vivo Y55s-5G",
+        "category": "vivo",
+        "bsp": "yes",
         "price": "402",
         "ram": "5Gb",
         "rom": "222Gb",
@@ -470,7 +527,9 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y55s-5g-1.jpg"
     },
     {
-        "name-": "vivo-V23e-03",
+        "name": "vivo-V23e-03",
+        "category": "vivo",
+        "bsp": "yes",
         "price": "1611",
         "ram": "18Gb",
         "rom": "222Gb",
@@ -480,7 +539,8 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v23e-03.jpg"
     },
     {
-        "name-": "vivo-Y76-5G",
+        "name": "vivo-Y76-5G",
+        "category": "vivo",
         "price": "268",
         "ram": "7Gb",
         "rom": "123Gb",
@@ -490,7 +550,8 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y76-5g-1.jpg"
     },
     {
-        "name-": "vivo-Y15",
+        "name": "vivo-Y15",
+        "category": "vivo",
         "price": "201",
         "ram": "4Gb",
         "rom": "120Gb",
@@ -500,7 +561,8 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y15s-02.jpg"
     },
     {
-        "name-": "oppo a11s",
+        "name": "oppo a11s",
+        "category": "oppo",
         "price": "150",
         "ram": "8Gb",
         "rom": "122Gb",
@@ -510,7 +572,8 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a11s-1.jpg"
     },
     {
-        "name-": "oppo find-n",
+        "name": "oppo find-n",
+        "category": "oppo",
         "price": "170",
         "ram": "8Gb",
         "rom": "122Gb",
@@ -520,7 +583,8 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-n-1.jpg"
     },
     {
-        "name-": "oppo reno-7 pro",
+        "name": "oppo reno-7 pro",
+        "category": "oppo",
         "price": "210",
         "ram": "8Gb",
         "rom": "122Gb",
@@ -530,7 +594,9 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno7-pro-5g-1.jpg"
     },
     {
-        "name-": "oppo reno-7",
+        "name": "oppo reno-7",
+        "category": "oppo",
+        "bsp": "yes",
         "price": "180",
         "ram": "8Gb",
         "rom": "122Gb",
@@ -540,7 +606,9 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno7-5g-2.jpg"
     },
     {
-        "name-": "oppo reno7 se",
+        "name": "oppo reno7 se",
+        "category": "oppo",
+        "bsp": "yes",
         "price": "201",
         "ram": "8Gb",
         "rom": "122Gb",
@@ -550,7 +618,9 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno7-se-5g-0.jpg"
     },
     {
-        "name-": "oppo a95",
+        "name": "oppo a95",
+        "category": "oppo",
+        "bsp": "yes",
         "price": "160",
         "ram": "8Gb",
         "rom": "122Gb",
@@ -560,7 +630,8 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a55-1.jpg"
     },
     {
-        "name-": "oppo a16k",
+        "name": "oppo a16k",
+        "category": "oppo",
         "price": "130",
         "ram": "8Gb",
         "rom": "122Gb",
@@ -570,7 +641,8 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a16k-1.jpg"
     },
     {
-        "name-": "oppo a54s",
+        "name": "oppo a54s",
+        "category": "oppo",
         "price": "140",
         "ram": "8Gb",
         "rom": "122Gb",
@@ -580,7 +652,8 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a16-1.jpg"
     },
     {
-        "name-": "oppo a56",
+        "name": "oppo a56",
+        "category": "oppo",
         "price": "150",
         "ram": "8Gb",
         "rom": "122Gb",
@@ -590,7 +663,8 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a56-5g-1.jpg"
     },
     {
-        "name-": "oppo k9s",
+        "name": "oppo k9s",
+        "category": "oppo",
         "price": "100",
         "ram": "8Gb",
         "rom": "122Gb",
@@ -601,6 +675,7 @@
     },
     {
         "name": "Huawei nova 8 SE",
+        "category": "huawei",
         "price": "335",
         "ram": "8GB",
         "rom": "128GB",
@@ -611,6 +686,8 @@
     },
     {
         "name": "Huawei P50 Pocket",
+        "category": "huawei",
+        "bsp": "yes",
         "price": "671",
         "ram": "8GB",
         "rom": "256GB",
@@ -621,6 +698,7 @@
     },
     {
         "name": "Huawei Enjoy 20e",
+        "category": "huawei",
         "price": "322",
         "ram": "6GB",
         "rom": "128GB",
@@ -631,6 +709,7 @@
     },
     {
         "name": "Huawei nova 9 Pro",
+        "category": "huawei",
         "price": "402",
         "ram": "8GB",
         "rom": "128GB",
@@ -641,6 +720,8 @@
     },
     {
         "name": "Huawei nova 9",
+        "category": "huawei",
+        "bsp": "yes",
         "price": "433",
         "ram": "8GB",
         "rom": "128GB",
@@ -651,6 +732,7 @@
     },
     {
         "name": "Huawei nova 8i",
+        "category": "huawei",
         "price": "396",
         "ram": "8GB",
         "rom": "128GB",
@@ -661,6 +743,7 @@
     },
     {
         "name": "Huawei nova 8",
+        "category": "huawei",
         "price": "429",
         "ram": "8GB",
         "rom": "128GB",
@@ -671,6 +754,7 @@
     },
     {
         "name": "Huawei Mate 40 Pro 4G",
+        "category": "huawei",
         "price": "537",
         "ram": "8GB",
         "rom": "256GB",
@@ -681,6 +765,7 @@
     },
     {
         "name": "Huawei Mate X2 4G",
+        "category": "huawei",
         "price": "295",
         "ram": "8GB",
         "rom": "256GB",
@@ -691,6 +776,8 @@
     },
     {
         "name": "Huawei MatePad Pro 12.6 (2021)",
+        "category": "huawei",
+        "bsp": "yes",
         "price": "671",
         "ram": "12GB",
         "rom": "128GB",
@@ -701,6 +788,7 @@
     },
     {
         "name": "OnePlus 9RT 5G",
+        "category": "oneplus",
         "price": "402",
         "ram": "8GB",
         "rom": "128GB",
@@ -711,6 +799,7 @@
     },
     {
         "name": "OnePlus Nord 2 5G",
+        "category": "oneplus",
         "price": "456",
         "ram": "8GB",
         "rom": "128GB",
@@ -721,6 +810,7 @@
     },
     {
         "name": "OnePlus Nord N200 5G",
+        "category": "oneplus",
         "price": "537",
         "ram": "4GB",
         "rom": "64GB",
@@ -731,6 +821,7 @@
     },
     {
         "name": "OnePlus Nord CE 5G",
+        "category": "oneplus",
         "price": "537",
         "ram": "6GB",
         "rom": "128GB",
@@ -741,6 +832,7 @@
     },
     {
         "name": "OnePlus 8T",
+        "category": "oneplus",
         "price": "604",
         "ram": "12GB",
         "rom": "128GB",
@@ -751,6 +843,7 @@
     },
     {
         "name": "OnePlus 8 5G UW (Verizon)",
+        "category": "oneplus",
         "price": "523",
         "ram": "12GB",
         "rom": "128GB",
@@ -761,6 +854,8 @@
     },
     {
         "name": "OnePlus 6T",
+        "category": "oneplus",
+        "bsp": "yes",
         "price": "671",
         "ram": "12GB",
         "rom": "128GB",
@@ -771,6 +866,8 @@
     },
     {
         "name": "OnePlus 5",
+        "category": "oneplus",
+        "bsp": "yes",
         "price": "671",
         "ram": "12GB",
         "rom": "128GB",
@@ -781,6 +878,7 @@
     },
     {
         "name": "OnePlus 9RT 5G",
+        "category": "oneplus",
         "price": "402",
         "ram": "8GB",
         "rom": "128GB",
@@ -791,6 +889,8 @@
     },
     {
         "name": "OnePlus 7 Pro",
+        "category": "oneplus",
+        "bsp": "yes",
         "price": "671",
         "ram": "8GB",
         "rom": "128GB",
