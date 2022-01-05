@@ -21,8 +21,6 @@ const Home = () => {
             <Products></Products>
             <Topproducts></Topproducts>
             <Bestsellingproducts></Bestsellingproducts>
-            {/* <Filter></Filter> */}
-            {/* <Filtering></Filtering> */}
             <AddProduct></AddProduct>
             <Footer></Footer>
         </div>
