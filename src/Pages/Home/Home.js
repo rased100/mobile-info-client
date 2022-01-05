@@ -1,11 +1,15 @@
 import React from 'react';
 import AddProduct from '../Admin/AddProduct/AddProduct';
 import Banner from '../Banner/Banner';
+import Bestsellingproducts from '../Bestsellingproducts/Bestsellingproducts';
+import Filter from '../filter/Filter';
+import Filtering from '../Filtering/Filtering/Filtering';
 import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 import Products from '../Products/Products';
 import AddReview from '../Review/AddReview';
 import Reviews from '../Review/Reviews';
+import Topproducts from '../Topproducts/Topproducts';
 
 
 
@@ -15,6 +19,10 @@ const Home = () => {
             <Header></Header>
             <Banner></Banner>
             <Products></Products>
+            <Topproducts></Topproducts>
+            <Bestsellingproducts></Bestsellingproducts>
+            {/* <Filter></Filter> */}
+            {/* <Filtering></Filtering> */}
             <AddProduct></AddProduct>
             <Footer></Footer>
         </div>
