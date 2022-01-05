@@ -1,6 +1,6 @@
-# Orchos Shoes
+# Mobile Hut
 
-Live site: https://orchos-shoes-320b7.web.app/
+Live site: https://p-hero-team-project.web.app/
 
 
 
@@ -24,4 +24,4 @@ Users can purchase a product & cancel an order & add a review.
 - The admin will be able to delete anyone's order here. Make sure to add a confirmation before deleting.
 
 - Tools: React.js,Bootstrap,Express.js,Private route,Firebase Authentication,MongoDB.
-#   M O c h o s - s h o s 
+#   M O b i l e - H h u t 
