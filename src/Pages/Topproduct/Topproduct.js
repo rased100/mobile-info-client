@@ -8,7 +8,7 @@ const Topproduct = (props) => {
         <div className="col-md-3" >
             <div className="card text-center">
                 <div className="phoneImage">
-                    <img src={img} alt="" className='' />
+                    <img src={img} alt="" className='card-img-top' />
                 </div>
                 <div className="card-body text-dark">
                     <h5 className="card-title hover">{name}</h5>

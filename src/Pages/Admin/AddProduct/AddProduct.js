@@ -16,7 +16,9 @@ const AddProduct = () => {
             })
     }
     return (
-        <div className="row">
+        <div className="row" data-aos="fade-up"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="1000">
             <div className="col-md-1">
                 <img className="margin-right" src="" alt="" />
             </div>

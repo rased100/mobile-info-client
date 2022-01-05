@@ -13,6 +13,7 @@ import AddReview from './Pages/Review/AddReview';
 import OrderNow from './Pages/OrdeNow/OrderNow';
 import MyOrder from './Pages/OrdeNow/MyOrder';
 import Iphones from './Pages/Filtering/Phones/Iphones/Iphones';
+import About from './Pages/About/About';
 
 function App() {
   return (
@@ -31,6 +32,8 @@ function App() {
             </Route>
 
             <Route path="/login" element={<Login />}>
+            </Route>
+            <Route path="/about" element={<About />}>
             </Route>
             <Route path="/register" element={<Register />}>
             </Route>
