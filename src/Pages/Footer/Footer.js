@@ -52,20 +52,25 @@ const Footer = () => {
                         </Box>
                     </Grid>
                     <Grid item xs={12} sm={4}>
-                        <Box className="header" borderBottom={1}>Messages</Box>
+                        <Box className="header" borderBottom={1}>Follow us</Box>
                         <Box>
                             <Link className="decoration" to="/" color="inherit">
-                                Backup
+                                Facebook
                             </Link>
                         </Box>
                         <Box>
                             <Link className="decoration" to="/" color="inherit">
-                                History
+                                Instagram
                             </Link>
                         </Box>
                         <Box>
                             <Link className="decoration" to="/" color="inherit">
-                                Roll
+                                Twitter
+                            </Link>
+                        </Box>
+                        <Box>
+                            <Link className="decoration" to="/" color="inherit">
+                                Youtube
                             </Link>
                         </Box>
                     </Grid>
