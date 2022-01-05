@@ -14,6 +14,12 @@ import OrderNow from './Pages/OrdeNow/OrderNow';
 import MyOrder from './Pages/OrdeNow/MyOrder';
 import Iphones from './Pages/Filtering/Phones/Iphones/Iphones';
 import About from './Pages/About/About';
+import NotFound from './Pages/NotFound/NotFound';
+import AdminRoute from './Pages/Admin/AdminRoute';
+import ManageAllOrders from './Pages/Admin/ManageAllOrders/ManageAllOrders';
+import ManageProducts from './Pages/Admin/ManageProducts/ManageProducts';
+import AddProduct from './Pages/Admin/AddProduct/AddProduct';
+import MakeAdmin from './Pages/Admin/MakeAdmin/MakeAdmin';
 
 function App() {
   return (
@@ -42,6 +48,22 @@ function App() {
             <Route path="/dashboard" element={<PrivateRoute>
               <Dashboard />
             </PrivateRoute>}>
+              <Route path={`/dashboard/manageproducts`} element={<AdminRoute>
+                <ManageProducts></ManageProducts>
+              </AdminRoute>}>
+              </Route>
+              <Route path={`/dashboard/manageallorders`} element={<AdminRoute>
+                <ManageAllOrders></ManageAllOrders>
+              </AdminRoute>}>
+              </Route>
+              <Route path={`/dashboard/makeAdmin`} element={<AdminRoute>
+                <MakeAdmin></MakeAdmin>
+              </AdminRoute>}>
+              </Route>
+              <Route path={`/dashboard/additems`} element={<AdminRoute>
+                <AddProduct></AddProduct>
+              </AdminRoute>}>
+              </Route>
             </Route>
             <Route path="/ordernow/:itemId" element={<PrivateRoute>
               <OrderNow />
@@ -52,6 +74,8 @@ function App() {
             <Route path="/addReview" element={<PrivateRoute>
               <AddReview />
             </PrivateRoute>}></Route>
+            <Route path="*" element={<NotFound />}>
+            </Route>
           </Routes>
 
         </Router>

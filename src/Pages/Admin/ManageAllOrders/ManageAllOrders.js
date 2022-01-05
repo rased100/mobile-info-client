@@ -66,7 +66,7 @@ const ManageAllOrders = () => {
                         <div className="card text-center" data-aos="zoom-in" data-aos-duration="2000" >
                             <div className="overflow">
                                 <img src={order?.item?.img} alt="" className='card-img-top' data-aos="zoom-in" data-aos-duration="2000" />
-                                <h5 className="card-title hover">{order.item?.ram}</h5>
+                                <h5 className="card-title hover">{order.item?.name}</h5>
                                 <h5>{order.email}</h5>
                                 <h5>{order.address}</h5>
                                 <h4>Status: <span className="text-primary">{order.status}</span></h4>

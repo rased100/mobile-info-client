@@ -1,7 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+
+
 const Bestsellingproduct = (props) => {
+
     const { _id, img, name, price } = props.bestsellingproduct
     return (
         <div className="col-md-3" >
@@ -20,7 +23,9 @@ const Bestsellingproduct = (props) => {
 
             </div>
         </div >
+
     );
+
 };
 
 export default Bestsellingproduct;

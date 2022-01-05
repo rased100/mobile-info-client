@@ -47,8 +47,7 @@ const ManageProducts = () => {
                             <div className="card text-center" data-aos="zoom-in" data-aos-duration="1000" >
                                 <div className="overflow">
                                     <img src={service?.img} alt="" className='card-img-top' data-aos="zoom-in" data-aos-duration="1000" />
-                                    <h5 className="card-title hover">{service.Name}</h5>
-                                    <h5 className='price'>{service?.Price}</h5>
+                                    <h5 className="card-title hover">{service.name}</h5>
                                     <button className="button-hover px-3 py-0 mt-2 mb-2" onClick={() => handleDelete(service._id)}>Delete</button>
                                 </div>
 
