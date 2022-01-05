@@ -13,7 +13,7 @@ const Products = () => {
             .then(res => res.json())
             .then(data => setusers(data));
     }, [])
-    console.log(users);
+    console.log('user', users);
     const { isLoading } = useAuth();
     if (isLoading) {
         return <Spinner animation="border" variant="secondary" />
