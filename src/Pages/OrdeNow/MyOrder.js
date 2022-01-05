@@ -7,7 +7,7 @@ const MyOrder = (item) => {
     const [status, setStatus] = useState(null)
     const { user } = useAuth()
     useEffect(() => {
-        fetch(`http://localhost:5000/myorders?email=${user.email}`)
+        fetch(`https://sheltered-mesa-52002.herokuapp.com/myorders?email=${user.email}`)
             .then(res => res.json())
             .then(data => {
                 console.log(data);
@@ -19,7 +19,7 @@ const MyOrder = (item) => {
     const handleDelete = id => {
         const proceed = window.confirm('Are you sure ,you wanted delete?');
         if (proceed) {
-            const url = `http://localhost:5000/allOrders/${id}`
+            const url = `https://sheltered-mesa-52002.herokuapp.com/allOrders/${id}`
             fetch(url, {
                 method: 'DELETE'
             })

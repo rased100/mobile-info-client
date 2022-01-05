@@ -11,7 +11,7 @@ const OrderNow = () => {
     console.log(item);
     useEffect(() => {
 
-        fetch(`http://localhost:5000/items/${itemId}`)
+        fetch(`https://sheltered-mesa-52002.herokuapp.com/items/${itemId}`)
             .then(res => res.json())
             .then(data => setItem(data))
     }, [itemId])
@@ -23,7 +23,7 @@ const OrderNow = () => {
 
         data.item = item;
         data.status = 'Pending'
-        fetch("http://localhost:5000/orders", {
+        fetch("https://sheltered-mesa-52002.herokuapp.com/orders", {
             method: "POST",
             headers: { "content-type": "application/json" },
             body: JSON.stringify(data),
