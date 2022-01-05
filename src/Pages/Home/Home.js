@@ -22,7 +22,7 @@ const Home = () => {
             <Reviews></Reviews>
             <Topproducts></Topproducts>
             <Bestsellingproducts></Bestsellingproducts>
-            <Iphone></Iphone>
+            {/* <Iphone></Iphone> */}
             <Footer></Footer>
         </div>
     );
