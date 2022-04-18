@@ -23,7 +23,7 @@ const Header = () => {
 
             <Navbar bg="" variant="dark" expand="lg" fixed="top" className="Navbar">
                 <Container >
-                    <Navbar.Brand href="/home" className="header">MobileHut</Navbar.Brand>
+                    <Navbar.Brand href="/home" className="header">Mobile info</Navbar.Brand>
                     <Navbar.Toggle aria-controls="navbarScroll" />
                     <Navbar.Collapse id="navbarScroll">
 
