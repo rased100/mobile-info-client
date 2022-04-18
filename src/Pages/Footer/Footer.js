@@ -76,7 +76,7 @@ const Footer = () => {
                     </Grid>
                 </Grid>
                 <Box textAlign="center" pt={{ xs: 5, sm: 10 }} pb={{ xs: 5, sm: 0 }}>
-                    <p className=''> <small>Copyright <u>MobileHut</u> &copy;2022,All Rights Reserved</small></p>
+                    <p className=''> <small>Copyright <u>Mobile info</u> &copy;2022,All Rights Reserved</small></p>
                 </Box>
             </Container>
         </Box>
