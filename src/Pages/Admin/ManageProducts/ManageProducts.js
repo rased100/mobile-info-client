@@ -7,12 +7,12 @@ const ManageProducts = () => {
     const [change, setChange] = useState(0)
 
     useEffect(() => {
-        fetch('https://sheltered-mesa-52002.herokuapp.com/moreitems')
+        fetch('https://mobile-info-node.herokuapp.com/moreitems')
             .then(res => res.json())
             .then(data => setServices(data))
     }, [change]);
     const handleDelete = id => {
-        const url = `https://sheltered-mesa-52002.herokuapp.com/moreitems/${id}`
+        const url = `https://mobile-info-node.herokuapp.com/moreitems/${id}`
         fetch(url, {
             method: 'DELETE'
         })

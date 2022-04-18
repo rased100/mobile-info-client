@@ -11,7 +11,7 @@ const MakeAdmin = () => {
     const handleAdminSubmit = e => {
         const user = { email }
         console.log(user);
-        fetch('https://sheltered-mesa-52002.herokuapp.com//users/admin', {
+        fetch('https://mobile-info-node.herokuapp.com//users/admin', {
             method: 'PUT',
             headers: {
 

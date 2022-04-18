@@ -7,7 +7,7 @@ import './AddProduct.css'
 const AddProduct = () => {
     const { register, handleSubmit, reset } = useForm();
     const onSubmit = data => {
-        axios.post('https://sheltered-mesa-52002.herokuapp.com/items', data)
+        axios.post('https://mobile-info-node.herokuapp.com/items', data)
             .then(res => {
                 if (res.data.insertedId) {
                     swal('Added successfully')

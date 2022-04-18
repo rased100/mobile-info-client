@@ -9,7 +9,7 @@ const Products = () => {
     const [users, setusers] = useState([])
 
     useEffect(() => {
-        fetch('https://sheltered-mesa-52002.herokuapp.com/items')
+        fetch('https://mobile-info-node.herokuapp.com/items')
             .then(res => res.json())
             .then(data => setusers(data));
     }, [])

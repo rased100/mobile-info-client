@@ -5,7 +5,7 @@ const ManageAllOrders = () => {
     const [orders, setOrders] = useState([]);
     const [status, setStatus] = useState(null)
     useEffect(() => {
-        fetch("https://sheltered-mesa-52002.herokuapp.com/allOrders")
+        fetch("https://mobile-info-node.herokuapp.com/allOrders")
             .then((res) => res.json())
             .then((data) => setOrders(data));
     }, [status]);
@@ -15,7 +15,7 @@ const ManageAllOrders = () => {
     const handleDelete = email => {
         const proceed = window.confirm('Are you sure ,you wanted delete?');
         if (proceed) {
-            const url = `https://sheltered-mesa-52002.herokuapp.com/allOrders/${email}`
+            const url = `https://mobile-info-node.herokuapp.com/allOrders/${email}`
             fetch(url, {
                 method: 'DELETE'
             })
@@ -34,7 +34,7 @@ const ManageAllOrders = () => {
     }
 
     const approveOrder = id => {
-        const url = `https://sheltered-mesa-52002.herokuapp.com/myorders?id=${id}`
+        const url = `https://mobile-info-node.herokuapp.com/myorders?id=${id}`
         fetch(url, {
             method: 'PUT',
 

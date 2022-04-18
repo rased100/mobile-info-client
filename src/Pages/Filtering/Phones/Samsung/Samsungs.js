@@ -5,7 +5,7 @@ const Samsungs = () => {
     const [samsungs, setSamsungs] = useState([]);
 
     useEffect(() => {
-        const url = `https://sheltered-mesa-52002.herokuapp.com/filterphone?category=samsung`
+        const url = `https://mobile-info-node.herokuapp.com/filterphone?category=samsung`
         fetch(url)
             .then(res => res.json())
             .then(data => setSamsungs(data));

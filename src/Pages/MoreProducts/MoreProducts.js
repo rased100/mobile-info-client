@@ -8,7 +8,7 @@ const MoreProducts = () => {
     const [users, setUsers] = useState([])
 
     useEffect(() => {
-        fetch('https://sheltered-mesa-52002.herokuapp.com/moreitems')
+        fetch('https://mobile-info-node.herokuapp.com/moreitems')
             .then(res => res.json())
             .then(data => setUsers(data));
     }, [])

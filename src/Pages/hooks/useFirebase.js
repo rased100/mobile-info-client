@@ -107,7 +107,7 @@ const useFirebase = () => {
     }, [])
 
     useEffect(() => {
-        fetch(`https://sheltered-mesa-52002.herokuapp.com/users/${user.email}`)
+        fetch(`https://mobile-info-node.herokuapp.com/users/${user.email}`)
             .then(res => res.json())
             .then(data => setAdmin(data.admin))
 
@@ -126,7 +126,7 @@ const useFirebase = () => {
     }
     const saveUser = (email, displayName, method) => {
         const user = { email, displayName }
-        fetch('https://sheltered-mesa-52002.herokuapp.com/users', {
+        fetch('https://mobile-info-node.herokuapp.com/users', {
             method: method,
             headers: {
                 'content-type': 'application/json'
