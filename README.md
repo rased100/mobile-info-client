@@ -1,4 +1,4 @@
-# [Mobile Hut](https://mobileinfo-f5b78.web.app)
+# [Mobile info](https://mobileinfo-f5b78.web.app)
 ## About this website
     •	Clients can see different mobile details to buy mobile phone.
 
